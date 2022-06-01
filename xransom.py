@@ -28,13 +28,13 @@ def banner():
     print(w+d+"           `.\ /,'                "+w+b+"X PHANTOM XPH4N70M")
     print(w+d+"              |                   "+w+"The author is not responsible")
     print(w+d+"              |                   "+w+"for any issues or damage")
-    print(w+d+"             |=|
-    print(w+d+"        /\  ,|=|.  /\
-    print(w+d+"    ,'`.  \/ |=| \/  ,'`.
-    print(w+d+"  ,'    `.|\ `-' /|,'    `.
-    print(w+d+",'   .-._ \ `---' / _,-.   `.
-    print(w+d+"   ,'    `-`-._,-'-'    `.
-    print(w+d+"  '                       `
+    print(w+d+"             |=|                  "+w+"join us")
+    print(w+d+"        /\  ,|=|.  /\             "+w+"https://bit.ly/3MaBt6m")
+    print(w+d+"    ,'`.  \/ |=| \/  ,'`.         "+w+"Tutorial")
+    print(w+d+"  ,'    `.|\ `-' /|,'    `.       "+w+"coming soon")
+    print(w+d+",'   .-._ \ `---' / _,-.   `.     ")
+    print(w+d+"   ,'    `-`-._,-'-'    `.        ")
+    print(w+d+"  '                       `       ")
     print(w+d+"
     print(w+d+"
 
