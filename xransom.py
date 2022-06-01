@@ -21,7 +21,20 @@ key_pass = ""
 
 def banner():
     print(w+d+"
-    print(w+d+"
+    print(w+d+"              .
+    print(w+d+"           ,'/ \`.
+    print(w+d+"          |\/___\/|
+    print(w+d+"          \'\   /`/
+    print(w+d+"           `.\ /,'
+    print(w+d+"              |
+    print(w+d+"              |
+    print(w+d+"             |=|
+    print(w+d+"        /\  ,|=|.  /\
+    print(w+d+"    ,'`.  \/ |=| \/  ,'`.
+    print(w+d+"  ,'    `.|\ `-' /|,'    `.
+    print(w+d+",'   .-._ \ `---' / _,-.   `.
+    print(w+d+"   ,'    `-`-._,-'-'    `.
+    print(w+d+"  '                       `
     print(w+d+"
     print(w+d+"
     print(w+d+"
