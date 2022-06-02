@@ -32,4 +32,6 @@ bash install.sh
 ```bash
 python3 xransom.py
 ```
+# ScreenShots
+       
 ##### <p align="center">```And Thanks for choosing this tool Support Us !```
