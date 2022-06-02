@@ -10,7 +10,7 @@ sleep 3
 echo -e $b">"$w" installing package: "$g"default-jdk"$w
 apt-get install default-jdk -y
 echo -e $b">"$w" installing package: "$g"aapt"$w
-apt-get install aapt zipalign -y
+apt-get install zipalign -y
 echo -e $b">"$w" installing package: "$g"apktool"$w
 apt-get install apktool -y
 echo -e $b">"$w" installing package: "$g"imagemagick"$w
