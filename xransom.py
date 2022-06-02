@@ -29,7 +29,7 @@ def banner():
     print(w+d+"              |                   "+w+"The author is not responsible")
     print(w+d+"              |                   "+w+"for any issues or damage")
     print(w+d+"             |=|                  "+w+"join us")
-    print(w+d+"        /\  ,|=|.  /\             "+w+"https://bit.ly/3MaBt6m")
+    print(w+d+"        /\  ,|=|.  /\             "+w+"https://bit.ly/3PV3S3r")
     print(w+d+"    ,'`.  \/ |=| \/  ,'`.         "+w+"Tutorial")
     print(w+d+"  ,'    `.|\ `-' /|,'    `.       "+w+"coming soon")
     print(w+d+",'   .-._ \ `---' / _,-.   `.     ")
