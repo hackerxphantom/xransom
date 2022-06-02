@@ -20,7 +20,7 @@ alert_desc = ""
 key_pass = ""
 
 def banner():
-    print(w+d+"
+    print(w+d+"                                  ")
     print(w+d+"              .                   ")
     print(w+d+"           ,'/ \`.                ")
     print(w+d+"          |\/___\/|               ")
@@ -35,8 +35,8 @@ def banner():
     print(w+d+",'   .-._ \ `---' / _,-.   `.     ")
     print(w+d+"   ,'    `-`-._,-'-'    `.        ")
     print(w+d+"  '                       `       ")
-    print(w+d+"
-    print(w+d+"
+    print(w+d+"                                  ")
+    print(w+d+"                                  ")
 
 def writefile(file,old,new):
     while True:
