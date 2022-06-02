@@ -21,10 +21,10 @@ key_pass = ""
 
 def banner():
     print(w+d+"
-    print(w+d+"              .
-    print(w+d+"           ,'/ \`.
-    print(w+d+"          |\/___\/|
-    print(w+d+"          \'\   /`/
+    print(w+d+"              .                   ")
+    print(w+d+"           ,'/ \`.                ")
+    print(w+d+"          |\/___\/|               ")
+    print(w+d+"          \'\   /`/               ")
     print(w+d+"           `.\ /,'                "+w+b+"X PHANTOM XPH4N70M")
     print(w+d+"              |                   "+w+"The author is not responsible")
     print(w+d+"              |                   "+w+"for any issues or damage")
