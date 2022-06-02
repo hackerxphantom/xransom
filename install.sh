@@ -9,7 +9,7 @@ echo -e $b">"$w" prepare for installing dependencies ..."
 sleep 3
 echo -e $b">"$w" installing package: "$g"default-jdk"$w
 apt-get install default-jdk -y
-echo -e $b">"$w" installing package: "$g"aapt"$w
+echo -e $b">"$w" installing package: "$g"zipalign"$w
 apt-get install zipalign -y
 echo -e $b">"$w" installing package: "$g"apktool"$w
 apt-get install apktool -y
