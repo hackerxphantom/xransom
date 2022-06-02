@@ -9,14 +9,14 @@ echo -e $b">"$w" prepare for installing dependencies ..."
 sleep 3
 echo -e $b">"$w" installing package: "$g"default-jdk"$w
 apt-get install default-jdk -y
-echo -e $b">"$w" installing package: "$g"zipalign"$w
-apt-get install zipalign -y
+echo -e $b">"$w" installing package: "$g"aapt"$w
+apt-get install aapt zipalign -y
 echo -e $b">"$w" installing package: "$g"apktool"$w
 apt-get install apktool -y
 echo -e $b">"$w" installing package: "$g"imagemagick"$w
 apt-get install imagemagick -y
 echo -e $b">"$w" installing pacakge: "$g"python3"$w
-apt-get install python3 python3-pip -y
+apt-get install python3
 echo -e $b">"$w" installing modules: "$g"pillow"$w
 pip3 install Pillow
 echo -e $b">"$w" successfully installing dependencies"
