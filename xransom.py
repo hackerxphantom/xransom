@@ -145,4 +145,4 @@ if __name__ == "__main__":
     try:
         start()
     except KeyboardInterrupt:
-        exit(r+"\n[!]"+w+" Thanks for Using this tools\n    Join Us All \033[4mhttps://bit.ly/3MaBt6m\033[0m\n    exiting ...")
+        exit(r+"\n[!]"+w+" Thanks for Using this tools\n    Join Us All \033[4mhttps://bit.ly/3PV3S3r/033[0m\n    exiting ...")
