@@ -61,7 +61,7 @@ def start():
     print(f"""
     {r}XRansom{w} is a Simple Android Ransomware Attack
     {w}The user can customize the App Icon, Name, Key and others.
-    {d}support us https://bit.ly/3MaBt6m !{w}
+    {d}support us https://bit.ly/3PV3S3r !{w}
     """)
     print(b+"> "+w+os.popen("curl ifconfig.co/city --silent").readline().strip()+", "+os.popen("curl ifconfig.co/country --silent").readline().rstrip()+time.strftime(", %d/%m/%Y (%H.%M.%S)"))
     print(b+">"+w+" Use \\n for newline and CTRL + C for exit")
