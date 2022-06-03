@@ -10,7 +10,7 @@
 Note : Tool is Made of Educational Purposes only.
        Please try not to harm anyone device 
        it's For Fun Purpose Not For Revenge
-       (Join Us All https://bit.ly/3LAy80f)
+       (Join Us https://bit.ly/3MdkT66 )
        
 ```
 ```bash
@@ -20,7 +20,7 @@ pkg update && pkg upgrade -y
 pkg install python3 -y
 ```
 ```bash
-git clone https://github.com/XPH4N70M/xransom
+git clone https://github.com/hackerxphantom/xransom
 ```
 ```bash
 cd xransom
