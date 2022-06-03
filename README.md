@@ -6,6 +6,7 @@
 ### <p align="center">Commands to run tool in ur terminal
 ***
 
+       Tutorial Link:- https://bit.ly/3GOXLtC
 ```bash
 Note : Tool is Made of Educational Purposes only.
        Please try not to harm anyone device 
