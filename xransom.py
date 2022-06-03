@@ -31,7 +31,7 @@ def banner():
     print(w+d+"             |=|                  "+w+"join us")
     print(w+d+"        /\  ,|=|.  /\             "+w+"https://bit.ly/3PV3S3r")
     print(w+d+"    ,'`.  \/ |=| \/  ,'`.         "+w+"Tutorial")
-    print(w+d+"  ,'    `.|\ `-' /|,'    `.       "+w+"coming soon")
+    print(w+d+"  ,'    `.|\ `-' /|,'    `.       "+w+"https://bit.ly/3GOXLtC")
     print(w+d+",'   .-._ \ `---' / _,-.   `.     ")
     print(w+d+"   ,'    `-`-._,-'-'    `.        ")
     print(w+d+"  '                       `       ")
